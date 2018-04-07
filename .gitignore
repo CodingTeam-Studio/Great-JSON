@@ -1,0 +1,11 @@
+# OS X
+#
+.DS_Store
+
+# Editors
+#
+.vscode/
+
+# Example executable file
+#
+main
